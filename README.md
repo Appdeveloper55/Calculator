@@ -1,2 +1,2 @@
 # Calculator
-app build in apk or aab for google play console
+app build in apk or aab bundle for google play console
